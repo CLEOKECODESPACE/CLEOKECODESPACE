@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, I'm Cleophas — The Next African Fintech Billionaire 🇰🇪
+  Hi, I'm Cleophas — The Next African Billionaire.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
-  🚀 <b>Founder of</b> <a href="#"><b>🍲 Able</b></a> | 💹 <b>Fintech Disruptor</b> | 🧠 <b>Polyglot Developer</b> | 🌍 <b>Architecting Africa's Digital Economy</b>
+  🚀 <b>Founder of</b> <a href="#"><b>🍲 ....</b></a> | 💹 <b>Fintech Disruptor</b> | 🧠 <b>Polyglot Developer</b> | 🌍 <b>Architecting Africa's Digital Economy</b>
 </p>
 
 <p align="center">
