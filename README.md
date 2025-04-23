@@ -44,7 +44,7 @@
 
 ### 🚀 **Flagship Projects**
 
-#### 💸 **Able Trading Platform**  
+#### 💸 **Trading Platform**  
 `React` `Node.js` `PostgreSQL` `Docker`  
 Africa's most intuitive trading interface with real-time M-Pesa settlement. Built with military-grade security and <1s latency.
 
