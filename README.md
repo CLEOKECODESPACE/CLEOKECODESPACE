@@ -46,10 +46,13 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CLEOKECODESPACE&show_icons=true&theme=default" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CLEOKECODESPACE&theme=default&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CLEOKECODESPACE&show_icons=true&theme=radical" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=CLEOKECODESPACE&theme=radical&hide_border=true" width="400"/>
 </p>
+
 
 ---
 
