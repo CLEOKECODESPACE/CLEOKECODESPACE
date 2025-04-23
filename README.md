@@ -38,13 +38,11 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| 💸 **Trading Platform** | React, Node.js, API, PostgreSQL | Real-time currency exchange solution with M-Pesa/Deriv integration. |
+| 💸 **Trading Platform** | React, Node.js, API, PostgreSQL | Real-time currency exchange solution with M-Pesa integration. |
 | 📘 **How It Works Page** | React, Tailwind CSS | Step-by-step onboarding and feature education UI. |
 | 🔐 **Settings Dashboard** | Fullstack Auth (JWT, 2FA), Theme Toggle | Personalization and account security in a simple UI. |
 
 ---
-
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
